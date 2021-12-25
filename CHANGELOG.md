@@ -1,6 +1,11 @@
 # Change Log
 
-## [1.10] - 2019-09-19
+## [1.12] - 2021-12-25
+### Changed
+- Refactored sides for better flow
+- Tried to switch to more fonts easily downloadable from the internet
+
+## [1.11] - 2019-09-19
 ### Changed
 - Minor edits to TDDCubeExplainer content
 - Moved TDDCubeExplainer content from LibreOffice Draw to LibreOffice Writer format, layout changes
