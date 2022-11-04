@@ -1,5 +1,11 @@
 # Change Log
 
+## [1.13] - 2022-11-03
+### Changed
+- Refactored sides for better flow
+- More font tweaks
+- Wordsmithing on cheatsheet
+
 ## [1.12] - 2021-12-25
 ### Changed
 - Refactored sides for better flow
